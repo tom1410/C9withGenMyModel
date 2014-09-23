@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.ecoreonline.graphic="http://com.genmymodel.ecoreonline.graphic/2.0" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_tMp7oEL_EeSlr9dWswXNGQ" name="model">
+  <eAnnotations xmi:id="_tMp7oUL_EeSlr9dWswXNGQ" source="genmymodel">
+    <details xmi:id="_tMp7okL_EeSlr9dWswXNGQ" key="uuid" value="_OL1Z0EL9EeSyYeDoyPirvg"/>
+    <contents xsi:type="com.genmymodel.graphic.uml:ClassDiagram" xmi:id="_tMp7o0L_EeSlr9dWswXNGQ" name="wordpressAPI-classDiagram">
+      <eAnnotations xmi:id="_tMp7pEL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp7pUL_EeSlr9dWswXNGQ" key="uuid" value="_OL1Z00L9EeSyYeDoyPirvg"/>
+      </eAnnotations>
+      <plane xmi:id="_tMp7pkL_EeSlr9dWswXNGQ" modelElement="_tMp7oEL_EeSlr9dWswXNGQ">
+        <eAnnotations xmi:id="_tMp7p0L_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp7qEL_EeSlr9dWswXNGQ" key="uuid" value="_OL1Z1EL9EeSyYeDoyPirvg"/>
+        </eAnnotations>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_tMp7qUL_EeSlr9dWswXNGQ" modelElement="_tMp8ZEL_EeSlr9dWswXNGQ" anchors="_tMp79EL_EeSlr9dWswXNGQ _tMp8HkL_EeSlr9dWswXNGQ _tMp72UL_EeSlr9dWswXNGQ" x="400" y="230" width="91" height="71" minWidth="78" minHeight="60" refElement="_tMp8CUL_EeSlr9dWswXNGQ" constraintPosition="CONTAINED_POSITION" deltaY="200" deltaX="340">
+          <eAnnotations xmi:id="_tMp7qkL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7q0L_EeSlr9dWswXNGQ" key="uuid" value="_hyXdwCUrEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7rEL_EeSlr9dWswXNGQ" modelElement="_tMp8Z0L_EeSlr9dWswXNGQ" width="86" height="20">
+            <eAnnotations xmi:id="_tMp7rUL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7rkL_EeSlr9dWswXNGQ" key="uuid" value="_govt0CUsEDKWHsUbtwTOBw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7r0L_EeSlr9dWswXNGQ" modelElement="_tMp8akL_EeSlr9dWswXNGQ" width="91" height="20">
+            <eAnnotations xmi:id="_tMp7sEL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7sUL_EeSlr9dWswXNGQ" key="uuid" value="_iDz9oCUsEDKWHsUbtwTOBw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_tMp7skL_EeSlr9dWswXNGQ" modelElement="_tMp8bUL_EeSlr9dWswXNGQ" anchors="_tMp790L_EeSlr9dWswXNGQ _tMp76EL_EeSlr9dWswXNGQ" x="97" y="222" width="100" height="91" minWidth="87" minHeight="70" refElement="_tMp8CUL_EeSlr9dWswXNGQ" constraintPosition="CONTAINED_POSITION" deltaY="192" deltaX="37">
+          <eAnnotations xmi:id="_tMp7s0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7tEL_EeSlr9dWswXNGQ" key="uuid" value="_iP_N4CUrEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7tUL_EeSlr9dWswXNGQ" modelElement="_tMp8cEL_EeSlr9dWswXNGQ" width="99" height="20">
+            <eAnnotations xmi:id="_tMp7tkL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7t0L_EeSlr9dWswXNGQ" key="uuid" value="_ppbEICUsEDKWHsUbtwTOBw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7uEL_EeSlr9dWswXNGQ" modelElement="_tMp8c0L_EeSlr9dWswXNGQ" width="100" height="20">
+            <eAnnotations xmi:id="_tMp7uUL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7ukL_EeSlr9dWswXNGQ" key="uuid" value="_P1FG4CUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7u0L_EeSlr9dWswXNGQ" modelElement="_tMp8dkL_EeSlr9dWswXNGQ" width="86" height="20">
+            <eAnnotations xmi:id="_tMp7vEL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7vUL_EeSlr9dWswXNGQ" key="uuid" value="_Q5l34SUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_tMp7vkL_EeSlr9dWswXNGQ" modelElement="_tMp8eUL_EeSlr9dWswXNGQ" anchors="_tMp71kL_EeSlr9dWswXNGQ _tMp75UL_EeSlr9dWswXNGQ" x="238" y="75" width="132" height="91" minWidth="80" minHeight="60" refElement="_tMp8CUL_EeSlr9dWswXNGQ" constraintPosition="CONTAINED_POSITION" deltaY="45" deltaX="178">
+          <eAnnotations xmi:id="_tMp7v0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7wEL_EeSlr9dWswXNGQ" key="uuid" value="_pO3rkCUrEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7wUL_EeSlr9dWswXNGQ" modelElement="_tMp8fEL_EeSlr9dWswXNGQ" width="86" height="20">
+            <eAnnotations xmi:id="_tMp7wkL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7w0L_EeSlr9dWswXNGQ" key="uuid" value="_ZMYNcCUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7xEL_EeSlr9dWswXNGQ" modelElement="_tMp8f0L_EeSlr9dWswXNGQ" width="86" height="20">
+            <eAnnotations xmi:id="_tMp7xUL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7xkL_EeSlr9dWswXNGQ" key="uuid" value="_BeaYwCUsEDKWHsUbtwTOBw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7x0L_EeSlr9dWswXNGQ" modelElement="_tMp8gkL_EeSlr9dWswXNGQ" width="132" height="20">
+            <eAnnotations xmi:id="_tMp7yEL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7yUL_EeSlr9dWswXNGQ" key="uuid" value="_WelKcCUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_tMp7ykL_EeSlr9dWswXNGQ" modelElement="_tMp8iEL_EeSlr9dWswXNGQ" anchors="_tMp8FUL_EeSlr9dWswXNGQ" x="102" y="442" width="147" height="91" minWidth="147" minHeight="80" refElement="_tMp8DEL_EeSlr9dWswXNGQ" constraintPosition="CONTAINED_POSITION" deltaY="45" deltaX="28">
+          <eAnnotations xmi:id="_tMp7y0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7zEL_EeSlr9dWswXNGQ" key="uuid" value="_9FOK8CUrEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp7zUL_EeSlr9dWswXNGQ" modelElement="_tMp8i0L_EeSlr9dWswXNGQ" width="132" height="20">
+            <eAnnotations xmi:id="_tMp7zkL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp7z0L_EeSlr9dWswXNGQ" key="uuid" value="_-CedYCUrEDKWHsUbtwTOBw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp70EL_EeSlr9dWswXNGQ" modelElement="_tMp8jkL_EeSlr9dWswXNGQ" width="80" height="20">
+            <eAnnotations xmi:id="_tMp70UL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp70kL_EeSlr9dWswXNGQ" key="uuid" value="_z0iNQCUsEDKWHsUbtwTOBw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_tMp700L_EeSlr9dWswXNGQ" modelElement="_tMp8kUL_EeSlr9dWswXNGQ" width="122" height="20">
+            <eAnnotations xmi:id="_tMp71EL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp71UL_EeSlr9dWswXNGQ" key="uuid" value="_G6cHICUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp71kL_EeSlr9dWswXNGQ" modelElement="_tMp8QkL_EeSlr9dWswXNGQ" targetSegments="_tMp73EL_EeSlr9dWswXNGQ" attachedElement="_tMp7vkL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp710L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp72EL_EeSlr9dWswXNGQ" key="uuid" value="_ESGoYSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp72UL_EeSlr9dWswXNGQ" modelElement="_tMp8PUL_EeSlr9dWswXNGQ" sourceSegments="_tMp73EL_EeSlr9dWswXNGQ" attachedElement="_tMp7qUL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp72kL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp720L_EeSlr9dWswXNGQ" key="uuid" value="_ESHPcCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AssociationSegment" xmi:id="_tMp73EL_EeSlr9dWswXNGQ" modelElement="_tMp8OkL_EeSlr9dWswXNGQ" relativeNodes="_tMp730L_EeSlr9dWswXNGQ _tMp74kL_EeSlr9dWswXNGQ" sourceConnector="_tMp71kL_EeSlr9dWswXNGQ" targetConnector="_tMp72UL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp73UL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp73kL_EeSlr9dWswXNGQ" key="uuid" value="_ESHPcSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndNameWidget" xmi:id="_tMp730L_EeSlr9dWswXNGQ" modelElement="_tMp8QkL_EeSlr9dWswXNGQ" x="342" y="182" width="21" height="21" minHeight="21" refElement="_tMp73EL_EeSlr9dWswXNGQ" deltaY="15" deltaX="22">
+          <eAnnotations xmi:id="_tMp74EL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp74UL_EeSlr9dWswXNGQ" key="uuid" value="_ESH2gCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndMultiplicityWidget" xmi:id="_tMp74kL_EeSlr9dWswXNGQ" modelElement="_tMp8QkL_EeSlr9dWswXNGQ" x="355" y="152" width="21" height="21" minHeight="21" refElement="_tMp73EL_EeSlr9dWswXNGQ" deltaY="-15" deltaX="10">
+          <eAnnotations xmi:id="_tMp740L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp75EL_EeSlr9dWswXNGQ" key="uuid" value="_ESH2gSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp75UL_EeSlr9dWswXNGQ" modelElement="_tMp8T0L_EeSlr9dWswXNGQ" targetSegments="_tMp760L_EeSlr9dWswXNGQ" attachedElement="_tMp7vkL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp75kL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp750L_EeSlr9dWswXNGQ" key="uuid" value="_EzqdUSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp76EL_EeSlr9dWswXNGQ" modelElement="_tMp8SkL_EeSlr9dWswXNGQ" sourceSegments="_tMp760L_EeSlr9dWswXNGQ" attachedElement="_tMp7skL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp76UL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp76kL_EeSlr9dWswXNGQ" key="uuid" value="_EzqdUiUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AssociationSegment" xmi:id="_tMp760L_EeSlr9dWswXNGQ" modelElement="_tMp8R0L_EeSlr9dWswXNGQ" relativeNodes="_tMp77kL_EeSlr9dWswXNGQ _tMp78UL_EeSlr9dWswXNGQ" sourceConnector="_tMp75UL_EeSlr9dWswXNGQ" targetConnector="_tMp76EL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp77EL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp77UL_EeSlr9dWswXNGQ" key="uuid" value="_EzqdUyUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndNameWidget" xmi:id="_tMp77kL_EeSlr9dWswXNGQ" modelElement="_tMp8SkL_EeSlr9dWswXNGQ" x="208" y="203" width="37" height="21" minHeight="21" refElement="_tMp760L_EeSlr9dWswXNGQ" constraintPosition="END_POSITION" deltaY="15" deltaX="28">
+          <eAnnotations xmi:id="_tMp770L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp78EL_EeSlr9dWswXNGQ" key="uuid" value="_EzqdVCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndMultiplicityWidget" xmi:id="_tMp78UL_EeSlr9dWswXNGQ" modelElement="_tMp8SkL_EeSlr9dWswXNGQ" x="190" y="187" width="21" height="21" minHeight="21" refElement="_tMp760L_EeSlr9dWswXNGQ" constraintPosition="END_POSITION" deltaY="-15" deltaX="20">
+          <eAnnotations xmi:id="_tMp78kL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp780L_EeSlr9dWswXNGQ" key="uuid" value="_EzrEYCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp79EL_EeSlr9dWswXNGQ" modelElement="_tMp8XEL_EeSlr9dWswXNGQ" targetSegments="_tMp7-kL_EeSlr9dWswXNGQ" attachedElement="_tMp7qUL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp79UL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp79kL_EeSlr9dWswXNGQ" key="uuid" value="_F49RcCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp790L_EeSlr9dWswXNGQ" modelElement="_tMp8V0L_EeSlr9dWswXNGQ" sourceSegments="_tMp7-kL_EeSlr9dWswXNGQ" attachedElement="_tMp7skL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp7-EL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7-UL_EeSlr9dWswXNGQ" key="uuid" value="_F494gCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AssociationSegment" xmi:id="_tMp7-kL_EeSlr9dWswXNGQ" modelElement="_tMp8VEL_EeSlr9dWswXNGQ" relativeNodes="_tMp8BkL_EeSlr9dWswXNGQ _tMp8AEL_EeSlr9dWswXNGQ _tMp7_UL_EeSlr9dWswXNGQ _tMp8A0L_EeSlr9dWswXNGQ" sourceConnector="_tMp79EL_EeSlr9dWswXNGQ" targetConnector="_tMp790L_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp7-0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7_EL_EeSlr9dWswXNGQ" key="uuid" value="_F494gSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndNameWidget" xmi:id="_tMp7_UL_EeSlr9dWswXNGQ" modelElement="_tMp8V0L_EeSlr9dWswXNGQ" x="207" y="271" width="37" height="21" minHeight="21" refElement="_tMp7-kL_EeSlr9dWswXNGQ" constraintPosition="END_POSITION" deltaY="15" deltaX="28">
+          <eAnnotations xmi:id="_tMp7_kL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp7_0L_EeSlr9dWswXNGQ" key="uuid" value="_F494giUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndMultiplicityWidget" xmi:id="_tMp8AEL_EeSlr9dWswXNGQ" modelElement="_tMp8V0L_EeSlr9dWswXNGQ" x="213" y="241" width="7" height="21" minHeight="21" refElement="_tMp7-kL_EeSlr9dWswXNGQ" constraintPosition="END_POSITION" deltaY="-15" deltaX="20">
+          <eAnnotations xmi:id="_tMp8AUL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8AkL_EeSlr9dWswXNGQ" key="uuid" value="_F494gyUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndNameWidget" xmi:id="_tMp8A0L_EeSlr9dWswXNGQ" modelElement="_tMp8XEL_EeSlr9dWswXNGQ" x="365" y="241" width="26" height="21" minHeight="21" refElement="_tMp7-kL_EeSlr9dWswXNGQ" deltaY="15" deltaX="22">
+          <eAnnotations xmi:id="_tMp8BEL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8BUL_EeSlr9dWswXNGQ" key="uuid" value="_F494hCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndMultiplicityWidget" xmi:id="_tMp8BkL_EeSlr9dWswXNGQ" modelElement="_tMp8XEL_EeSlr9dWswXNGQ" x="368" y="276" width="5" height="21" minHeight="21" refElement="_tMp7-kL_EeSlr9dWswXNGQ" deltaY="-20" deltaX="30">
+          <eAnnotations xmi:id="_tMp8B0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8CEL_EeSlr9dWswXNGQ" key="uuid" value="_F4-fkCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PackageWidget" xmi:id="_tMp8CUL_EeSlr9dWswXNGQ" modelElement="_tMp8YUL_EeSlr9dWswXNGQ" relativeNodes="_tMp7qUL_EeSlr9dWswXNGQ _tMp7vkL_EeSlr9dWswXNGQ _tMp7skL_EeSlr9dWswXNGQ" x="60" y="30" width="475" height="340" minWidth="475" minHeight="340">
+          <eAnnotations xmi:id="_tMp8CkL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8C0L_EeSlr9dWswXNGQ" key="uuid" value="_Ir224CUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PackageWidget" xmi:id="_tMp8DEL_EeSlr9dWswXNGQ" modelElement="_tMp8hUL_EeSlr9dWswXNGQ" relativeNodes="_tMp7ykL_EeSlr9dWswXNGQ _tMp8D0L_EeSlr9dWswXNGQ _tMp8J0L_EeSlr9dWswXNGQ" x="74" y="397" width="465" height="252" minWidth="465" minHeight="252">
+          <eAnnotations xmi:id="_tMp8DUL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8DkL_EeSlr9dWswXNGQ" key="uuid" value="_M04hwCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_tMp8D0L_EeSlr9dWswXNGQ" modelElement="_tMp8lEL_EeSlr9dWswXNGQ" anchors="_tMp8EkL_EeSlr9dWswXNGQ _tMp8G0L_EeSlr9dWswXNGQ" x="397" y="456" width="105" height="60" minWidth="60" minHeight="60" refElement="_tMp8DEL_EeSlr9dWswXNGQ" constraintPosition="CONTAINED_POSITION" deltaY="59" deltaX="323">
+          <eAnnotations xmi:id="_tMp8EEL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8EUL_EeSlr9dWswXNGQ" key="uuid" value="_Qkg1MCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp8EkL_EeSlr9dWswXNGQ" modelElement="_tMp8l0L_EeSlr9dWswXNGQ" targetSegments="_tMp8GEL_EeSlr9dWswXNGQ" attachedElement="_tMp8D0L_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp8E0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8FEL_EeSlr9dWswXNGQ" key="uuid" value="_S2AWsCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp8FUL_EeSlr9dWswXNGQ" modelElement="_tMp8l0L_EeSlr9dWswXNGQ" sourceSegments="_tMp8GEL_EeSlr9dWswXNGQ" attachedElement="_tMp7ykL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp8FkL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8F0L_EeSlr9dWswXNGQ" key="uuid" value="_S2A9wCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:GeneralizationSegment" xmi:id="_tMp8GEL_EeSlr9dWswXNGQ" modelElement="_tMp8l0L_EeSlr9dWswXNGQ" sourceConnector="_tMp8EkL_EeSlr9dWswXNGQ" targetConnector="_tMp8FUL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp8GUL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8GkL_EeSlr9dWswXNGQ" key="uuid" value="_S2A9wSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp8G0L_EeSlr9dWswXNGQ" modelElement="_tMp8o0L_EeSlr9dWswXNGQ" targetSegments="_tMp8IUL_EeSlr9dWswXNGQ" attachedElement="_tMp8D0L_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp8HEL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8HUL_EeSlr9dWswXNGQ" key="uuid" value="_UKoAQCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_tMp8HkL_EeSlr9dWswXNGQ" modelElement="_tMp8o0L_EeSlr9dWswXNGQ" sourceSegments="_tMp8IUL_EeSlr9dWswXNGQ" attachedElement="_tMp7qUL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp8H0L_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8IEL_EeSlr9dWswXNGQ" key="uuid" value="_UKoAQSUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:DependencySegment" xmi:id="_tMp8IUL_EeSlr9dWswXNGQ" modelElement="_tMp8o0L_EeSlr9dWswXNGQ" relativeNodes="_tMp8JEL_EeSlr9dWswXNGQ" sourceConnector="_tMp8G0L_EeSlr9dWswXNGQ" targetConnector="_tMp8HkL_EeSlr9dWswXNGQ">
+          <eAnnotations xmi:id="_tMp8IkL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8I0L_EeSlr9dWswXNGQ" key="uuid" value="_UKonUCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:StaticLabelWidget" xmi:id="_tMp8JEL_EeSlr9dWswXNGQ" modelElement="_tMp8o0L_EeSlr9dWswXNGQ" x="459" y="378" width="98" height="21" minHeight="21" refElement="_tMp8IUL_EeSlr9dWswXNGQ" constraintPosition="CENTER_POSITION" deltaY="-1" deltaX="11" color="" value="« dependency »">
+          <eAnnotations xmi:id="_tMp8JUL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8JkL_EeSlr9dWswXNGQ" key="uuid" value="_UKqcgCUsEDKWHsUbtwTOBw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:EnumerationWidget" xmi:id="_tMp8J0L_EeSlr9dWswXNGQ" modelElement="_tMp8mkL_EeSlr9dWswXNGQ" x="127" y="547" width="124" height="87" minWidth="57" minHeight="58" refElement="_tMp8DEL_EeSlr9dWswXNGQ" constraintPosition="CONTAINED_POSITION" deltaY="150" deltaX="53">
+          <eAnnotations xmi:id="_tMp8KEL_EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_tMp8KUL_EeSlr9dWswXNGQ" key="uuid" value="_IstWACUtEDKC8oao1KvMdw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:EnumerationLiteralWidget" xmi:id="_tMp8KkL_EeSlr9dWswXNGQ" modelElement="_tMp8nUL_EeSlr9dWswXNGQ" x="373" y="558" width="124" height="20">
+            <eAnnotations xmi:id="_tMp8K0L_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp8LEL_EeSlr9dWswXNGQ" key="uuid" value="_KUlSwCUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:EnumerationLiteralWidget" xmi:id="_tMp8LUL_EeSlr9dWswXNGQ" modelElement="_tMp8oEL_EeSlr9dWswXNGQ" x="394" y="590" width="124" height="20">
+            <eAnnotations xmi:id="_tMp8LkL_EeSlr9dWswXNGQ" source="genmymodel">
+              <details xmi:id="_tMp8L0L_EeSlr9dWswXNGQ" key="uuid" value="_K5_s8SUtEDKC8oao1KvMdw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+      </plane>
+    </contents>
+  </eAnnotations>
+  <ownedComment xmi:id="_tMp8MEL_EeSlr9dWswXNGQ" body="Draft of Wordpress REST API class diagram">
+    <eAnnotations xmi:id="_tMp8MUL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8MkL_EeSlr9dWswXNGQ" key="uuid" value="_tBWDgEL_EeSlr9dWswXNGQ"/>
+      <details xmi:id="_tMp8M0L_EeSlr9dWswXNGQ" key="is-first" value="true"/>
+    </eAnnotations>
+  </ownedComment>
+  <packageImport xmi:id="_tMp8NEL_EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_tMp8NUL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8NkL_EeSlr9dWswXNGQ" key="uuid" value="_OL1Z0UL9EeSyYeDoyPirvg"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packageImport xmi:id="_tMp8N0L_EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_tMp8OEL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8OUL_EeSlr9dWswXNGQ" key="uuid" value="_OL1Z0kL9EeSyYeDoyPirvg"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://GENMYMODEL_LIBRARIES/GenMyModelPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packagedElement xsi:type="uml:Association" xmi:id="_tMp8OkL_EeSlr9dWswXNGQ" name="Site_Post" memberEnd="_tMp8PUL_EeSlr9dWswXNGQ _tMp8QkL_EeSlr9dWswXNGQ" navigableOwnedEnd="_tMp8PUL_EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_tMp8O0L_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8PEL_EeSlr9dWswXNGQ" key="uuid" value="_ESGoYCUsEDKWHsUbtwTOBw"/>
+    </eAnnotations>
+    <ownedEnd xmi:id="_tMp8PUL_EeSlr9dWswXNGQ" name="post" type="_tMp8ZEL_EeSlr9dWswXNGQ" aggregation="composite" association="_tMp8OkL_EeSlr9dWswXNGQ">
+      <eAnnotations xmi:id="_tMp8PkL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8P0L_EeSlr9dWswXNGQ" key="uuid" value="_ESFaQCUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_tMp8QEL_EeSlr9dWswXNGQ"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMp8QUL_EeSlr9dWswXNGQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_tMp8QkL_EeSlr9dWswXNGQ" name="site" type="_tMp8eUL_EeSlr9dWswXNGQ" association="_tMp8OkL_EeSlr9dWswXNGQ">
+      <eAnnotations xmi:id="_tMp8Q0L_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8REL_EeSlr9dWswXNGQ" key="uuid" value="_ESGBUCUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_tMp8RUL_EeSlr9dWswXNGQ"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMp8RkL_EeSlr9dWswXNGQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Association" xmi:id="_tMp8R0L_EeSlr9dWswXNGQ" name="Site_Author" memberEnd="_tMp8SkL_EeSlr9dWswXNGQ _tMp8T0L_EeSlr9dWswXNGQ" navigableOwnedEnd="_tMp8T0L_EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_tMp8SEL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8SUL_EeSlr9dWswXNGQ" key="uuid" value="_EzqdUCUsEDKWHsUbtwTOBw"/>
+    </eAnnotations>
+    <ownedEnd xmi:id="_tMp8SkL_EeSlr9dWswXNGQ" name="author" type="_tMp8bUL_EeSlr9dWswXNGQ" aggregation="composite" association="_tMp8R0L_EeSlr9dWswXNGQ">
+      <eAnnotations xmi:id="_tMp8S0L_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8TEL_EeSlr9dWswXNGQ" key="uuid" value="_Ezp2QCUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_tMp8TUL_EeSlr9dWswXNGQ"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMp8TkL_EeSlr9dWswXNGQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_tMp8T0L_EeSlr9dWswXNGQ" name="site" type="_tMp8eUL_EeSlr9dWswXNGQ" association="_tMp8R0L_EeSlr9dWswXNGQ">
+      <eAnnotations xmi:id="_tMp8UEL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8UUL_EeSlr9dWswXNGQ" key="uuid" value="_Ezp2QSUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_tMp8UkL_EeSlr9dWswXNGQ"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMp8U0L_EeSlr9dWswXNGQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Association" xmi:id="_tMp8VEL_EeSlr9dWswXNGQ" name="Post_Author" memberEnd="_tMp8V0L_EeSlr9dWswXNGQ _tMp8XEL_EeSlr9dWswXNGQ" navigableOwnedEnd="_tMp8V0L_EeSlr9dWswXNGQ _tMp8XEL_EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_tMp8VUL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8VkL_EeSlr9dWswXNGQ" key="uuid" value="_F48qYSUsEDKWHsUbtwTOBw"/>
+    </eAnnotations>
+    <ownedEnd xmi:id="_tMp8V0L_EeSlr9dWswXNGQ" name="author" type="_tMp8bUL_EeSlr9dWswXNGQ" association="_tMp8VEL_EeSlr9dWswXNGQ">
+      <eAnnotations xmi:id="_tMp8WEL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8WUL_EeSlr9dWswXNGQ" key="uuid" value="_F48DUCUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_tMp8WkL_EeSlr9dWswXNGQ" value="1"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMp8W0L_EeSlr9dWswXNGQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_tMp8XEL_EeSlr9dWswXNGQ" name="post" type="_tMp8ZEL_EeSlr9dWswXNGQ" association="_tMp8VEL_EeSlr9dWswXNGQ">
+      <eAnnotations xmi:id="_tMp8XUL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8XkL_EeSlr9dWswXNGQ" key="uuid" value="_F48qYCUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_tMp8X0L_EeSlr9dWswXNGQ"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMp8YEL_EeSlr9dWswXNGQ" value="*"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Package" xmi:id="_tMp8YUL_EeSlr9dWswXNGQ" name="domain">
+    <eAnnotations xmi:id="_tMp8YkL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8Y0L_EeSlr9dWswXNGQ" key="uuid" value="_Ir2P0CUsEDKWHsUbtwTOBw"/>
+    </eAnnotations>
+    <packagedElement xsi:type="uml:Class" xmi:id="_tMp8ZEL_EeSlr9dWswXNGQ" name="Post">
+      <eAnnotations xmi:id="_tMp8ZUL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8ZkL_EeSlr9dWswXNGQ" key="uuid" value="_hyUacSUrEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <ownedAttribute xmi:id="_tMp8Z0L_EeSlr9dWswXNGQ" name="ID" visibility="private">
+        <eAnnotations xmi:id="_tMp8aEL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8aUL_EeSlr9dWswXNGQ" key="uuid" value="_got4oCUsEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Integer"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8akL_EeSlr9dWswXNGQ" name="slug">
+        <eAnnotations xmi:id="_tMp8a0L_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8bEL_EeSlr9dWswXNGQ" key="uuid" value="_iDzWkCUsEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Class" xmi:id="_tMp8bUL_EeSlr9dWswXNGQ" name="User">
+      <eAnnotations xmi:id="_tMp8bkL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8b0L_EeSlr9dWswXNGQ" key="uuid" value="_iP-m0CUrEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <ownedAttribute xmi:id="_tMp8cEL_EeSlr9dWswXNGQ" name="email" visibility="private">
+        <eAnnotations xmi:id="_tMp8cUL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8ckL_EeSlr9dWswXNGQ" key="uuid" value="_ppadECUsEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8c0L_EeSlr9dWswXNGQ" name="name" visibility="private">
+        <eAnnotations xmi:id="_tMp8dEL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8dUL_EeSlr9dWswXNGQ" key="uuid" value="_P1Ef0CUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8dkL_EeSlr9dWswXNGQ" name="ID" visibility="private">
+        <eAnnotations xmi:id="_tMp8d0L_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8eEL_EeSlr9dWswXNGQ" key="uuid" value="_Q5l34CUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Integer"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Class" xmi:id="_tMp8eUL_EeSlr9dWswXNGQ" name="Site">
+      <eAnnotations xmi:id="_tMp8ekL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8e0L_EeSlr9dWswXNGQ" key="uuid" value="_pO12YCUrEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <ownedAttribute xmi:id="_tMp8fEL_EeSlr9dWswXNGQ" name="ID">
+        <eAnnotations xmi:id="_tMp8fUL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8fkL_EeSlr9dWswXNGQ" key="uuid" value="_ZMXmYCUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//Integer"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8f0L_EeSlr9dWswXNGQ" name="title">
+        <eAnnotations xmi:id="_tMp8gEL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8gUL_EeSlr9dWswXNGQ" key="uuid" value="_BeZxsCUsEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8gkL_EeSlr9dWswXNGQ" name="description">
+        <eAnnotations xmi:id="_tMp8g0L_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8hEL_EeSlr9dWswXNGQ" key="uuid" value="_WekjYCUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Package" xmi:id="_tMp8hUL_EeSlr9dWswXNGQ" name="api">
+    <eAnnotations xmi:id="_tMp8hkL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8h0L_EeSlr9dWswXNGQ" key="uuid" value="_M036sCUsEDKWHsUbtwTOBw"/>
+    </eAnnotations>
+    <packagedElement xsi:type="uml:Class" xmi:id="_tMp8iEL_EeSlr9dWswXNGQ" name="Resource" isAbstract="true">
+      <eAnnotations xmi:id="_tMp8iUL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8ikL_EeSlr9dWswXNGQ" key="uuid" value="_9FM80CUrEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <ownedAttribute xmi:id="_tMp8i0L_EeSlr9dWswXNGQ" name="description">
+        <eAnnotations xmi:id="_tMp8jEL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8jUL_EeSlr9dWswXNGQ" key="uuid" value="_-Cd2UCUrEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8jkL_EeSlr9dWswXNGQ" name="url">
+        <eAnnotations xmi:id="_tMp8j0L_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8kEL_EeSlr9dWswXNGQ" key="uuid" value="_z0g_ICUsEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+        <type xsi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#//String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_tMp8kUL_EeSlr9dWswXNGQ" name="method" type="_tMp8mkL_EeSlr9dWswXNGQ">
+        <eAnnotations xmi:id="_tMp8kkL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8k0L_EeSlr9dWswXNGQ" key="uuid" value="_G6a5ACUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Class" xmi:id="_tMp8lEL_EeSlr9dWswXNGQ" name="PostResource">
+      <eAnnotations xmi:id="_tMp8lUL_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8lkL_EeSlr9dWswXNGQ" key="uuid" value="_QkgOICUsEDKWHsUbtwTOBw"/>
+      </eAnnotations>
+      <generalization xmi:id="_tMp8l0L_EeSlr9dWswXNGQ" general="_tMp8iEL_EeSlr9dWswXNGQ">
+        <eAnnotations xmi:id="_tMp8mEL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8mUL_EeSlr9dWswXNGQ" key="uuid" value="_S1_voCUsEDKWHsUbtwTOBw"/>
+        </eAnnotations>
+      </generalization>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Enumeration" xmi:id="_tMp8mkL_EeSlr9dWswXNGQ" name="Method">
+      <eAnnotations xmi:id="_tMp8m0L_EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_tMp8nEL_EeSlr9dWswXNGQ" key="uuid" value="_Issu8CUtEDKC8oao1KvMdw"/>
+      </eAnnotations>
+      <ownedLiteral xmi:id="_tMp8nUL_EeSlr9dWswXNGQ" name="GET" classifier="_tMp8mkL_EeSlr9dWswXNGQ">
+        <eAnnotations xmi:id="_tMp8nkL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8n0L_EeSlr9dWswXNGQ" key="uuid" value="_KUiPcCUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+      </ownedLiteral>
+      <ownedLiteral xmi:id="_tMp8oEL_EeSlr9dWswXNGQ" name="POST" classifier="_tMp8mkL_EeSlr9dWswXNGQ">
+        <eAnnotations xmi:id="_tMp8oUL_EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_tMp8okL_EeSlr9dWswXNGQ" key="uuid" value="_K5_s8CUtEDKC8oao1KvMdw"/>
+        </eAnnotations>
+      </ownedLiteral>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Dependency" xmi:id="_tMp8o0L_EeSlr9dWswXNGQ" client="_tMp8lEL_EeSlr9dWswXNGQ" supplier="_tMp8ZEL_EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_tMp8pEL_EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_tMp8pUL_EeSlr9dWswXNGQ" key="uuid" value="_UKmLECUsEDKWHsUbtwTOBw"/>
+    </eAnnotations>
+  </packagedElement>
+</uml:Model>
