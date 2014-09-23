@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_azhP4EL5EeSlr9dWswXNGQ" name="model">
+  <eAnnotations xmi:id="_azhP4UL5EeSlr9dWswXNGQ" source="genmymodel">
+    <details xmi:id="_azhP4kL5EeSlr9dWswXNGQ" key="uuid" value="_GexkUEL5EeSyYeDoyPirvg"/>
+    <contents xsi:type="com.genmymodel.graphic.uml:ClassDiagram" xmi:id="_azhP40L5EeSlr9dWswXNGQ" name="defaultDiagram">
+      <eAnnotations xmi:id="_azhP5EL5EeSlr9dWswXNGQ" source="genmymodel">
+        <details xmi:id="_azhP5UL5EeSlr9dWswXNGQ" key="uuid" value="_GeyLYUL5EeSyYeDoyPirvg"/>
+      </eAnnotations>
+      <plane xmi:id="_azhP5kL5EeSlr9dWswXNGQ" modelElement="_azhP4EL5EeSlr9dWswXNGQ">
+        <eAnnotations xmi:id="_azhP50L5EeSlr9dWswXNGQ" source="genmymodel">
+          <details xmi:id="_azhP6EL5EeSlr9dWswXNGQ" key="uuid" value="_GeyLYkL5EeSyYeDoyPirvg"/>
+        </eAnnotations>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_azhP6UL5EeSlr9dWswXNGQ" modelElement="_azhP8kL5EeSlr9dWswXNGQ" x="100" y="90" width="72" height="80" minWidth="60" minHeight="80">
+          <eAnnotations xmi:id="_azhP6kL5EeSlr9dWswXNGQ" source="genmymodel">
+            <details xmi:id="_azhP60L5EeSlr9dWswXNGQ" key="uuid" value="_EmTwECUnEDKQwtKqgeIjHw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+      </plane>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_azhP7EL5EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_azhP7UL5EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_azhP7kL5EeSlr9dWswXNGQ" key="uuid" value="_GexkUUL5EeSyYeDoyPirvg"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packageImport xmi:id="_azhP70L5EeSlr9dWswXNGQ">
+    <eAnnotations xmi:id="_azhP8EL5EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_azhP8UL5EeSlr9dWswXNGQ" key="uuid" value="_GeyLYEL5EeSyYeDoyPirvg"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://GENMYMODEL_LIBRARIES/GenMyModelPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packagedElement xsi:type="uml:Class" xmi:id="_azhP8kL5EeSlr9dWswXNGQ" name="MyClass">
+    <eAnnotations xmi:id="_azhP80L5EeSlr9dWswXNGQ" source="genmymodel">
+      <details xmi:id="_azhP9EL5EeSlr9dWswXNGQ" key="uuid" value="_EmEfgSUnEDKQwtKqgeIjHw"/>
+    </eAnnotations>
+  </packagedElement>
+</uml:Model>
