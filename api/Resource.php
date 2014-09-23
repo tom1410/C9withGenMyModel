@@ -1,5 +1,8 @@
 <?php
 
+/* Generated from GenMyModel 
+* @author Walter White
+*/
 
 class Resource {
 	public $description;
