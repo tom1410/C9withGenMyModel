@@ -1,5 +1,0 @@
-<?php
-
-/* Generated from GenMyModel */
-
-
