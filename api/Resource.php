@@ -1,6 +1,5 @@
 <?php
 
-/* Generated from GenMyModel */
 
 class Resource {
 	public $description;

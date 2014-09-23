@@ -1,6 +1,5 @@
 <?php
 
-/* Generated from GenMyModel */
 
 class User {
 	private $email;
